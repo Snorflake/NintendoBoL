@@ -1,4 +1,4 @@
-local ShenVersion = "1.001"
+local ShenVersion = "1.0"
 
 if VIP_USER then
 	require "Prodiction"
