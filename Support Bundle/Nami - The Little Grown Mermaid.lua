@@ -1,5 +1,5 @@
 -- Script Name: Nami - The Little Grown Mermaid
--- Script Ver.: 1.0
+-- Script Ver.: 1.01
 -- Thread Link: http://goo.gl/AiyB00
 -- Author     : Skeem
 

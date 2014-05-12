@@ -1,5 +1,5 @@
 -- Script Name: Soraka - Guaardian of The Triforce of Wisdom
--- Script Ver.: 1.0
+-- Script Ver.: 1.02
 -- Thread Link: http://goo.gl/AiyB00
 -- Author     : Skeem
 
