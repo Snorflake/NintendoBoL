@@ -8,6 +8,15 @@
 
 
 Changelog:
+	v3.01: Complete Rewrite of Script
+	       New smart combo with proper Q passive usage
+	       New Smart Prediction
+	       New Combo Settings
+	       SxOrbwalk included (of course all other orbwalkers are also supported)
+	       New Smart healing system
+	       Fixed Auto poke also added 100% hitchance
+	       New 'simplistic' menu
+	       
 	v1.09: Heal isn't canceling teleport anymore
 	v1.07: Reverted changes
 	v1.06: Fixed E on cougar form
