@@ -8,6 +8,10 @@
 
 
 Changelog:
+	v1.20: Revamped the script
+	       Updated auto ignite for latest patch
+	       Updated Combo
+	       Updated Lane Clear
 	v1.02: Heal isn't canceling teleport anymore
 	v1.00: Changed auth.
 	v0.05: Hotfixed killdraws in the patch until next update

@@ -16,7 +16,11 @@ Changelog:
 	       New Smart healing system
 	       Fixed Auto poke also added 100% hitchance
 	       New 'simplistic' menu
-	       
+	v3.05: Made Combo Smarter
+	       Improved Q Prediction
+	       Fixed Lane, Jungle Clear
+	       Added Escape Key
+	       Added auto pounce to mouse if enemy not in range	       
 	v1.09: Heal isn't canceling teleport anymore
 	v1.07: Reverted changes
 	v1.06: Fixed E on cougar form

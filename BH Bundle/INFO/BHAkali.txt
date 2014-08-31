@@ -11,6 +11,8 @@ Special thanks to Expansion for his work here, since this is a collab release. I
 working really well, PM him to express your thanks ^^
 
 Changelog:
+	v1.02: Updated Script for latest version
+	       Updated Ignite
 	v1.02: Improved Q usage to lasthit
 	v1.01: Fixed ignite usage on combo
 	v1.00: New Auth + Internal fixes
