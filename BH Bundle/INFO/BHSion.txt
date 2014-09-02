@@ -7,6 +7,10 @@
 .########..##.....##.....######..####..#######..##....##
 
 Changelog:
+	v1.20: Updated for latest patch
+	       Fixed Auto Ignite
+	       Fixed Auto W
+	       Added SxOrbWalk
 	v1.00: Auth Change
 	v0.01: First release
 

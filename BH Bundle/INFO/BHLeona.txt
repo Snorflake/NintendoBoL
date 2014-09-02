@@ -4,6 +4,8 @@
 (____/(_) (_)  (____)(____)(_____)(_)\_)(__)(__)
 
 Changelog:
+	v1.30: Updated Script to work
+	       Included SxOrbwalk
 	v0.05: VPrediction support with E and R
 	v0.04: Internal Tweaks
 	v0.03: Added an option to autoR the Q-Stunned target

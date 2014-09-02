@@ -10,6 +10,8 @@
 Special thanks to ENTRYWAY, he wrote a good part of this script, so thanks to him part of it :)
 
 Changelog:
+	v1.30: Updated for latest patch
+	       Fixed auto interrupt spells
 	v1.07:  Added AutoUlt if people X people around.
 		Added AutoW saver for people.
 	v1.05:  Added an option to not use 2nd Q if you don't want to in the combo.
