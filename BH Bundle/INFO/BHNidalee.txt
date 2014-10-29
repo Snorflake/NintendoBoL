@@ -20,7 +20,14 @@ Changelog:
 	       Improved Q Prediction
 	       Fixed Lane, Jungle Clear
 	       Added Escape Key
-	       Added auto pounce to mouse if enemy not in range	       
+	       Added auto pounce to mouse if enemy not in range
+	v3.10: Recoded Combo now works a lot smoother (Users R better)
+	       Better Spear Accuracy
+	       Added Harass Mode
+	       Added Use W (Traps) on targets snared/slowed/stuned
+	       Added KillSteals with proper R Switches
+
+----> OLD
 	v1.09: Heal isn't canceling teleport anymore
 	v1.07: Reverted changes
 	v1.06: Fixed E on cougar form
