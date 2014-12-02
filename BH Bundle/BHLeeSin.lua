@@ -1,5 +1,5 @@
 -- Script Name: BHLeeSin
--- Script Ver.: 2.60
+-- Script Ver.: 2.70
 -- Thread Link: http://goo.gl/AiyB00
 -- Author     : Bothappy & Skeem
 
